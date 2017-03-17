@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\KEMDIKBUD\Pustaka1.1\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="D:\KEMDIKBUD\Pustaka1.1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.0_3277d49ea202a37cf60a8cf5a33efbe3af28b1c8\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\KEMDIKBUD\Pustaka1.1\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="D:\KEMDIKBUD\Pustaka1.1\app\build\intermediates\pre-dexed\release\com.android.support-animated-vector-drawable-25.1.0_7b5ca75ecce77d118713fb7c5bcfbbe960ac466b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\KEMDIKBUD\Pustaka1.1\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7f2420506110902f033406b25697cf97ee8c38b2">
+        <dex dex="D:\KEMDIKBUD\Pustaka1.1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-25.1.0_b4a59a3a7aab8ca750230293273c8885c5108fd9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\KEMDIKBUD\Pustaka1.1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6ed3cb9d5f7ddfe7f73a6c7b9d1c7b5ffe867401">
+        <dex dex="D:\KEMDIKBUD\Pustaka1.1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_e5779108c9a3a7e4925a10ad6b2615d497f12d45\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\KEMDIKBUD\Pustaka1.1\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="D:\KEMDIKBUD\Pustaka1.1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.0_7b5ca75ecce77d118713fb7c5bcfbbe960ac466b\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\KEMDIKBUD\Pustaka1.1\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7f2420506110902f033406b25697cf97ee8c38b2">
+        <dex dex="D:\KEMDIKBUD\Pustaka1.1\app\build\intermediates\pre-dexed\release\com.android.support-cardview-v7-25.1.0_b4a59a3a7aab8ca750230293273c8885c5108fd9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\KEMDIKBUD\Pustaka1.1\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\KEMDIKBUD\Pustaka1.1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.0_58c86b4f29cc06bb5073b2df767ba39f036328b0\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\KEMDIKBUD\Pustaka1.1\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\KEMDIKBUD\Pustaka1.1\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-25.1.0_58c86b4f29cc06bb5073b2df767ba39f036328b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\KEMDIKBUD\Pustaka1.1\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="D:\KEMDIKBUD\Pustaka1.1\app\build\intermediates\pre-dexed\release\com.android.support-support-fragment-25.1.0_3277d49ea202a37cf60a8cf5a33efbe3af28b1c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\KEMDIKBUD\Pustaka1.1\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="D:\KEMDIKBUD\Pustaka1.1\app\build\intermediates\pre-dexed\release\com.android.support-support-core-utils-25.1.0_79a89431d1a7394e254305cb0e21e6745a90296d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\SDK\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="D:\KEMDIKBUD\Pustaka1.1\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.0_0f5274f2035106220a2b163bef187614d5e6caba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\KEMDIKBUD\Pustaka1.1\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="D:\KEMDIKBUD\Pustaka1.1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.0_79a89431d1a7394e254305cb0e21e6745a90296d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\SDK\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="D:\KEMDIKBUD\Pustaka1.1\app\build\intermediates\pre-dexed\release\support-annotations-25.1.0_0f5274f2035106220a2b163bef187614d5e6caba.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Muhammad Rifqi\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="D:\KEMDIKBUD\Pustaka1.1\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.7.0_37adb12b3581040892ee65f0f8846251637c9764\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\KEMDIKBUD\Pustaka1.1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="D:\KEMDIKBUD\Pustaka1.1\app\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-25.1.0_e4984e9b1f7ea39f77cf674bf6dcb64a46c33570.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Muhammad Rifqi\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="D:\KEMDIKBUD\Pustaka1.1\app\build\intermediates\pre-dexed\release\glide-3.7.0_37adb12b3581040892ee65f0f8846251637c9764.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\KEMDIKBUD\Pustaka1.1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="D:\KEMDIKBUD\Pustaka1.1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.0_e4984e9b1f7ea39f77cf674bf6dcb64a46c33570\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\KEMDIKBUD\Pustaka1.1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="018cd9fd0d21893b8b674b8c8924469de099d8e0">
+        <dex dex="D:\KEMDIKBUD\Pustaka1.1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_60b9898bc88815a1f2f452543ba6d3623c77f988\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\KEMDIKBUD\Pustaka1.1\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="D:\KEMDIKBUD\Pustaka1.1\app\build\intermediates\pre-dexed\release\com.android.support-support-media-compat-25.1.0_b1157bc91a16c84e4ab6626169eda5dfd6ffccd4.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\KEMDIKBUD\Pustaka1.1\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="D:\KEMDIKBUD\Pustaka1.1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.1.0_56cf74525a355ffbbe1a342cae57a4bbb2408e26\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\KEMDIKBUD\Pustaka1.1\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="D:\KEMDIKBUD\Pustaka1.1\app\build\intermediates\pre-dexed\release\com.android.support-recyclerview-v7-25.1.0_56cf74525a355ffbbe1a342cae57a4bbb2408e26.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\KEMDIKBUD\Pustaka1.1\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="D:\KEMDIKBUD\Pustaka1.1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.0_b1157bc91a16c84e4ab6626169eda5dfd6ffccd4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\KEMDIKBUD\Pustaka1.1\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="D:\KEMDIKBUD\Pustaka1.1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.0_8b47cbdf1123121118cd2c7f2b1da43f8058915d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\KEMDIKBUD\Pustaka1.1\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="D:\KEMDIKBUD\Pustaka1.1\app\build\intermediates\pre-dexed\release\com.android.support-support-core-ui-25.1.0_97fbf30588790390458fcb60b367b216a36ead5b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Muhammad Rifqi\.gradle\caches\modules-2\files-2.1\com.mcxiaoke.volley\library\1.0.19\a8f23f65fc1e522ee4a1a697ee569901a46741fa\library-1.0.19.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a8f23f65fc1e522ee4a1a697ee569901a46741fa">
+        <dex dex="D:\KEMDIKBUD\Pustaka1.1\app\build\intermediates\pre-dexed\release\library-1.0.19_67f04821f9b8f39c5ef842d933b40d9a6eabf103.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\KEMDIKBUD\Pustaka1.1\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="D:\KEMDIKBUD\Pustaka1.1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.0_0a37c4a31552cb518ea90b19f7a472a27231f2b3\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Muhammad Rifqi\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.6.1\b9d63507329a7178e026fc334f87587ee5070ac5\gson-2.6.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
+        <dex dex="D:\KEMDIKBUD\Pustaka1.1\app\build\intermediates\pre-dexed\release\gson-2.6.1_73c4ea684db59e5ce5485e3716d9b3e85137e03f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\KEMDIKBUD\Pustaka1.1\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="D:\KEMDIKBUD\Pustaka1.1\app\build\intermediates\pre-dexed\release\com.android.support-support-vector-drawable-25.1.0_0a37c4a31552cb518ea90b19f7a472a27231f2b3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Muhammad Rifqi\.gradle\caches\modules-2\files-2.1\com.mcxiaoke.volley\library\1.0.19\a8f23f65fc1e522ee4a1a697ee569901a46741fa\library-1.0.19.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a8f23f65fc1e522ee4a1a697ee569901a46741fa">
+        <dex dex="D:\KEMDIKBUD\Pustaka1.1\app\build\intermediates\transforms\dex\debug\folders\1000\10\library-1.0.19_67f04821f9b8f39c5ef842d933b40d9a6eabf103\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\KEMDIKBUD\Pustaka1.1\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="D:\KEMDIKBUD\Pustaka1.1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.0_97fbf30588790390458fcb60b367b216a36ead5b\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\KEMDIKBUD\Pustaka1.1\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="D:\KEMDIKBUD\Pustaka1.1\app\build\intermediates\pre-dexed\release\com.android.support-support-compat-25.1.0_8b47cbdf1123121118cd2c7f2b1da43f8058915d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Muhammad Rifqi\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.6.1\b9d63507329a7178e026fc334f87587ee5070ac5\gson-2.6.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
+        <dex dex="D:\KEMDIKBUD\Pustaka1.1\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.6.1_73c4ea684db59e5ce5485e3716d9b3e85137e03f\classes.dex" />
+    </item>
+
+</items>

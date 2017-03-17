@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#04a5f6"
+    tools:context=".SplashActivity">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@mipmap/icon_kmd"
+        android:id="@+id/iconkmd"
+        android:layout_alignParentTop="true" android:layout_alignParentEnd="true"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:textColor="#000"
+        android:paddingLeft="10dp"
+        android:text="Kementerian Pendidikan dan Kebudayaan RI"
+        android:id="@+id/textView"
+        android:gravity="center_vertical|center_horizontal" android:layout_alignParentTop="true"
+        android:layout_alignBottom="@+id/iconkmd" android:layout_alignParentStart="true"
+        android:layout_toStartOf="@+id/iconkmd"
+        android:layout_alignParentLeft="true"
+        android:layout_toLeftOf="@+id/iconkmd" />
+
+    <ImageView
+        android:src="@drawable/pustakasplash"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView"
+        android:adjustViewBounds="true"
+        android:layout_below="@+id/iconkmd"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="23dp" />
+
+</RelativeLayout>

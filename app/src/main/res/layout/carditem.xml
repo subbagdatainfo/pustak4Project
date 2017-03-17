@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    tools:context=".MainActivity">
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:padding="5dp"
+        android:elevation="2dp"
+        android:id="@+id/carditem_planet"
+        card_view:cardCornerRadius="2dp"
+        android:clickable="true"
+        android:foreground="?android:attr/selectableItemBackground" android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="8dp">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:padding="3dp" android:background="#04a5f6">
+
+            <ImageView
+                android:layout_width="110dp"
+                android:layout_height="200dp"
+                android:src="@drawable/ntb"
+                android:padding="5dp"
+                android:id="@+id/img_icon" android:layout_alignParentBottom="true"/>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:orientation="vertical"
+                android:layout_toRightOf="@+id/img_icon"
+                android:layout_marginLeft="5dp"
+                android:layout_centerHorizontal="true" android:id="@+id/linearLayout">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/txt_judul"
+                    android:text="Ini Judulnya"
+                    android:textSize="14dp"
+                    android:textStyle="bold"
+                    />
+
+            </LinearLayout>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/txt_penulis"
+                android:text="Ini penulisnya"
+                android:textSize="14dp"
+                android:textStyle="bold"
+                android:layout_marginTop="100dp"
+                android:layout_centerVertical="false"
+                />
+
+        </RelativeLayout>
+
+    </android.support.v7.widget.CardView>
+</RelativeLayout>
